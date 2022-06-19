@@ -1,0 +1,1 @@
+added play pause repeat and stop
